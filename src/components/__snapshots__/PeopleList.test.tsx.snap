@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`<PeopleList /> > should match snapshot 1`] = `
+<ul>
+  <li>
+    Chuck
+     
+    Morris
+  </li>
+  <li>
+    James
+     
+    Rodriguez
+  </li>
+  <li>
+    Juan Fernando
+     
+    Quintero
+  </li>
+  <li>
+    Zander
+     
+    Guti
+  </li>
+</ul>
+`;
